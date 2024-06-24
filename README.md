@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Viktor. Millenial from 🇺🇦 Ukraine 💛💙, currently based in Silicon Valley 👩‍💻🌉👨‍💻 and work as Engineering manager.
+I am Viktor. Millenial from 🇺🇦 Ukraine 💛💙, currently based in Silicon Valley 👩‍💻🌉👨‍💻 and working as Engineering manager.
 I'm driven by a passion for continuous learning and growth🌱, challenging myself and others 🎖️ and making the future come faster 🤖.
 
 
