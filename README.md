@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 I am Viktor. Millenial from 🇺🇦 Ukraine 💛💙, currently based in Silicon Valley 👩‍💻🌉👨‍💻 and working as Engineering manager.
+
 I'm driven by a passion for continuous learning and growth🌱, challenging myself and others 🎖️ and making the future come faster 🤖.
 
+- 🔭 I’m currently working on fun projects, listed on https://gbdrm.github.io
 
 <!--
 **gbdrm/gbdrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
