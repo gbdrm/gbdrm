@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am Viktor. Millenial from 🇺🇦 Ukraine 💛💙, currently based in Silicon Valley 👩‍💻🌉👨‍💻 and working as Engineering manager.
+I am Viktor. Millenial from 🇺🇦 Ukraine 💛💙, currently based in Silicon Valley 👩‍💻🌉👨‍💻 and working as an Engineering manager.
 
-- 🔭 I’m currently working on fun projects, listed on https://gbdrm.github.io
+- 🔭 I’m exploring fun projects, listed on https://gbdrm.github.io
 - 🌱 I’m currently learning how to automate the updates to this page
 - 👯 I’m looking to collaborate on whatever making the future come faster 🤖.
 
