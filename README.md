@@ -4,7 +4,7 @@ My name is Viktor. I am a curious explorer from 🇺🇦 Ukraine 💛💙.
 Currently I am based in Silicon Valley 🌉 and work as an engineering manager👨‍💻
 
 - 🔭 I’m exploring projects, listed on https://gbdrm.github.io
-- 🌱 I’m currently learning how to automate the updates to this page and https://codesparks.org/
+- 🌱 I’m currently learning how to automate the updates to this page
 - 👯 I’m looking to collaborate on whatever is making the future come faster 🤖.
 
 <!--
