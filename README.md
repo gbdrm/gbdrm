@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Viktor. I am originally from 🇺🇦 Ukraine 💛💙, living today in Silicon Valley 🌉 and working as an engineering manager👨‍💻
+My name is Viktor. I am originally from 🇺🇦 Ukraine 💛💙, living today in Silicon Valley🌉 and working as an engineering manager👨‍💻 in probably the best data storage company💻. 
 
 - 🔭 I’m exploring projects, listed on https://gbdrm.github.io
 - 🌱 I’m currently learning how to automate the updates to this page
