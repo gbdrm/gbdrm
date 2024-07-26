@@ -7,8 +7,6 @@ My name is Viktor. I am originally from 🇺🇦 Ukraine 💛💙, living today 
 - 👯 I’m looking to collaborate on whatever is making the future come faster 🤖.
 
 
-[![Viktor Kotsiuban profile views](https://u8views.com/api/v1/github/profiles/4364316/views/day-week-month-total-count.svg)](https://u8views.com/github/gbdrm)
-
 <!--
 **gbdrm/gbdrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
