@@ -2,8 +2,10 @@
 
 My name is Viktor. I am originally from 🇺🇦 Ukraine 💛💙, living today in Silicon Valley🌉 and working as an engineering manager👨‍💻 in probably the best data storage company💻. 
 
-- 🔭 I’m exploring projects, listed on https://gbdrm.github.io
-- 🌱 I’m currently learning how to automate the updates to this page
+Here are a bit more details about me:
+- 🛠️ building an open-source project for tech growth https://codesparks.org
+- 🔭 exploring life, people, tech, health, education, and experiments
+- 🌱 currently learning how to automate the updates to this page and things around AI
 - 👯 I’m looking to collaborate on whatever is making the future come faster 🤖.
 
 
