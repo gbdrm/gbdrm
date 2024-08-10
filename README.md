@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 
 [![Viktor Kotsiuban profile views](https://u8views.com/api/v1/github/profiles/4364316/views/day-week-month-total-count.svg)](https://u8views.com/github/gbdrm)
+
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
