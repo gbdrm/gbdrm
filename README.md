@@ -12,5 +12,5 @@ I'm Viktor, a Ukrainian 🇺🇦 tech enthusiast, now living in the heart of Sil
 ### My GitHub Stats
 [![Viktor Kotsiuban profile views](https://u8views.com/api/v1/github/profiles/4364316/views/day-week-month-total-count.svg)](https://u8views.com/github/gbdrm)
 
-### Stand With Ukraine
+### #StandWithUkraine
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
