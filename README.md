@@ -1,30 +1,16 @@
+
 ## Hi there 👋
 
-My name is Viktor. I am originally from 🇺🇦 Ukraine 💛💙, living today in Silicon Valley🌉 and working as an engineering manager👨‍💻 in probably the best data storage company💻. 
+I'm Viktor, a Ukrainian 🇺🇦 tech enthusiast, now living in the heart of Silicon Valley 🌉, where I’m driving innovation as an engineering manager at one of the leading data storage companies 💻.
 
-Here are a bit more details about me:
-- 🛠️ building an open-source project for tech growth https://codesparks.org
-- 🔭 exploring life, people, tech, health, education, and experiments
-- 🌱 currently learning how to automate the updates to this page and things around AI
-- 👯 I’m looking to collaborate on whatever is making the future come faster 🤖.
+### A Bit About Me
+- **🛠️ Builder**: I'm the creator of [CodeSparks](https://codesparks.org), an open-source platform designed to ignite tech growth.
+- **🔭 Explorer**: Constantly diving into life, technology, health, education, and the endless possibilities of the future.
+- **🌱 Learner**: Currently mastering the art of automation for this page and experimenting with AI.
+- **🤝 Collaborator**: Always on the lookout to join forces on projects that push the boundaries of what's possible.
 
-
-<!--
-**gbdrm/gbdrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-
+### My GitHub Stats
 [![Viktor Kotsiuban profile views](https://u8views.com/api/v1/github/profiles/4364316/views/day-week-month-total-count.svg)](https://u8views.com/github/gbdrm)
 
-
+### Stand With Ukraine
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
